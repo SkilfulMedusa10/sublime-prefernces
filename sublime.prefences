@@ -1,0 +1,18 @@
+// Settings in here override those in "Default/Preferences.sublime-settings",
+// and are overridden in turn by syntax-specific settings.
+{
+	"color_scheme": "Monokai.sublime-color-scheme",
+	"font_face": "Hermit",
+	"font_size": 12,
+	"fold_buttons": false,
+	"caret_style": "smooth",
+	"caret_extra_top": 0,
+	"caret_extra_bottom": 0,
+	"block_caret": true,
+	"match_brackets": false,
+	"auto_complete": false,
+	"shift_tab_unindent": true,
+	"hardware_acceleration": "opengl",
+	"hot_exit": "disabled",
+	"file_exclude_patterns": ["*.sublime-project", "*.sublime-workspace"]
+}
